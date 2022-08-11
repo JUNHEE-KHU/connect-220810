@@ -24,9 +24,3 @@ def check_id(id) :
 
 a = "500629-2222222"
 check_id(a)
-
-a = "000629-2222222"
-check_id(a)
-
-a = "000629-2222222"
-check_id(a)
